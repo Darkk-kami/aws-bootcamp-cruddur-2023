@@ -1,0 +1,17 @@
+[
+  {
+    "Notification": {
+      "NotificationType": "ACTUAL",
+      "ComparisonOperator": "GREATER_THAN",
+      "Threshold": 80,
+      "ThresholdType": "PERCENTAGE",
+      "NotificationState": "OK"
+    },
+    "Subscribers": [
+      {
+        "SubscriptionType": "EMAIL",
+        "Address": "raw.dwayne@gmail.com"
+      }
+    ]
+  }
+]
